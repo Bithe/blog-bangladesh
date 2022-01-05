@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: green;
+}
+
+.flex-container {
+    display: flex;
+    padding: 10px;
+}
+
+.flex-container img {
+    width: 360px;
+    text-align: center;
+}
+
+.section-one-box-des {
+    width: 60%;
+    padding: 20px;
+    margin: 20px;
+}
+
+.section-one-box-des p {
+    text-align: justify;
+}
+
+.section-one-box {
+    width: 20%;
+    padding: 40px;
+}
